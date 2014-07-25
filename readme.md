@@ -63,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Cloud Services
 
-- [Sauce Labs](https://saucelabs.com) - cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
+- [Sauce Labs](https://saucelabs.com) - Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
 - [Browserstack](http://www.browserstack.com) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
 - [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
 - [CasperBox](http://casperbox.com/) - RESTful API for running CasperJS scripts online
@@ -71,8 +71,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Web Scraping / Mining
 
 - [Scrapy](http://scrapy.org) - **Python**, mainly a scraper/miner - fast, well documented and, can be linked with [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) for nice mining deployments, or [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) for PaaS (server-less) deployment, works in terminal or an server stand-alone proces, can be used with **Celery**, built on top of **Twisted**
-- [Snailer](https://github.com/matthewhudson/snailer) - **Node.js** module, untested yet. 
-- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** module, untested yet.
+- [Snailer](http://snailer.org/) - **Node.js** Frontend test and audit framework. Extensible with plugins.
+- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery
 
 ### Specifications
 
@@ -81,5 +81,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Blogs
 
-- [Official Selenium Blog](http://seleniumhq.wordpress.com/) - the official one
-- [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro
+- [Official Selenium Blog](http://seleniumhq.wordpress.com/) - The official blog by SeleniumHQ.
+- [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
