@@ -44,6 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Java
 
 - [Conductor](http://conductor.ddavison.io) - Turbo-boosted Selenium framework that makes test writing a breeze.
+- [darcy](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
 
 ### CSS Regression Testing
 
