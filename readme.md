@@ -68,6 +68,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [CasperBox IDE](http://ide.casperbox.com) - Simple online IDE for writing and running CasperJS scripts directly in the browser (built on top of CasperBox API).
 
+### Desktop Tools
+- [SWD Page Recorder](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
+
 ### Cloud Services
 
 - [Sauce Labs](https://saucelabs.com) - Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
