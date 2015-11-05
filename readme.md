@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nightwatch](http://nightwatchjs.org/) - efficient and straightforward Javascript End-to-End tests.
 - [yiewd](https://github.com/jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers.
+- [Protractor](https://angular.github.io/protractor/)  - Protractor is an end-to-end test framework for AngularJS applications.
 
 #### Ruby
 
