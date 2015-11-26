@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nightwatch](http://nightwatchjs.org/) - efficient and straightforward Javascript End-to-End tests.
 - [yiewd](https://github.com/jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers.
+- [Protractor](https://angular.github.io/protractor/)  - Protractor is an end-to-end test framework for AngularJS applications.
 
 #### Ruby
 
@@ -45,6 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Conductor](http://conductor.ddavison.io) - Turbo-boosted Selenium framework that makes test writing a breeze.
 - [darcy](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
+- [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 
 ### CSS Regression Testing
 
@@ -93,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Official Selenium Blog](http://seleniumhq.wordpress.com/) - The official blog by SeleniumHQ.
 - [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
+- [Assert Selenium] (http://www.assertselenium.com/) - Selenium Automation in a Right way - A Selenium only blog.
 
 ## License
 
