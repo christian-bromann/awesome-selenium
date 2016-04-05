@@ -38,6 +38,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Spidr](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 - [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 
+#### PHP
+- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
+- [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
+
 #### Python
 
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
