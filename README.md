@@ -44,6 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### PHP
 - [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
 - [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
+- [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
 
 #### Python
 
