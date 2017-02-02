@@ -31,6 +31,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers for unit testing (mostly AngularJS).
 - [Protractor](https://angular.github.io/protractor/) - Protractor is an end-to-end test framework for AngularJS applications.
 - [Cypress](https://www.cypress.io/) - Cypress helps developers write automated tests for the web.
+- [CodeceptJS](http://codecept.io/) - Modern Era Aceptance Testing Framework for NodeJS.
+- [Nightmare.js](http://www.nightmarejs.org/) - A high-level browser automation library.
 
 #### Ruby
 
@@ -62,6 +64,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### C#
 
 - [Selenium with C#](http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html) - Selenium C# bindings
+
+#### Groovy
+
+- [Geb](http://www.gebish.org/) - It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit & TestNG.
 
 ### CSS Regression Testing
 
