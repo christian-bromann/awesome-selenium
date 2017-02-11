@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Tools](#tools)
 - [CSS Regression Testing](#css-regression-testing)
+- [Containers](#containers)
 - [Driver](#driver)
 - [Online Tools](#online-tools)
 - [Cloud Services](#cloud-services)
@@ -73,6 +74,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+
+### Containers
+
+#### Docker
+
+- [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 
 ### Driver
 
