@@ -12,7 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Driver](#driver)
 - [Online Tools](#online-tools)
 - [Cloud Services](#cloud-services)
-- [Web Scraping / Mining](#web-scraping-mining)
+- [Web Scraping / Mining](#web-scraping--mining)
 - [Specifications](#specifications)
 - [Blogs](#blogs)
 
