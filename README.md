@@ -10,7 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CSS Regression Testing](#css-regression-testing)
 - [Containers](#containers)
 - [Driver](#driver)
-- [Online Tools](#online-tools)
+- [Desktop Tools](#desktop-tools)
 - [Cloud Services](#cloud-services)
 - [Web Scraping / Mining](#web-scraping--mining)
 - [Specifications](#specifications)
@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Winium](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
 
 ### Desktop Tools
+
 - [SWD Page Recorder](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
 
 ### Cloud Services
