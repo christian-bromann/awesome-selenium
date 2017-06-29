@@ -38,7 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Ruby
 
 - [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
-- [Watir](https://watir.com/) - Automated testing that doesn’t hurt
+- [Watir](http://watir.github.io) - Automated testing that doesn’t hurt
 - [Anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 - [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
 - [Spidr](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
