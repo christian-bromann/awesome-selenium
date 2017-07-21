@@ -82,8 +82,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Docker
 
 - [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
+- [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
-- [aerokube/selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
+- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
 - [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 
 ### Driver
