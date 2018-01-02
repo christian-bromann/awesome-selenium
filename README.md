@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Python
 
 - [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
+- [Selene](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
 - [Pomade](https://github.com/saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 - [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
@@ -62,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium with Java](http://seleniumhq.github.io/selenium/docs/api/java/index.html) - Selenium Java bindings
 - [Conductor](http://conductor.ddavison.io) - Turbo-boosted Selenium framework that makes test writing a breeze.
 - [darcy](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
-- [Selenide](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API.
+- [Selenide](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
 - [Galen Framework](http://galenframework.com/) - Automated testing of look and feel for your responsive websites.
 - [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 
