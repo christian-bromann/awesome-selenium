@@ -96,6 +96,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 - [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
 
+#### Kubernetes
+- [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
+
 ### Driver
 
 #### Desktop (browsers)
