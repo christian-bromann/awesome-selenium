@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Galen Framework](http://galenframework.com/) - Automated testing of look and feel for your responsive websites.
 - [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 - [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
+- [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
 
 #### C#
 
