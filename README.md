@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Kubernetes
 - [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
+- [Moon](https://github.com/aerokube/moon) - A commercial closed-source Selenium implementation enterprise Selenium implementation using Kubernetes to launch browsers
 
 ### Driver
 
