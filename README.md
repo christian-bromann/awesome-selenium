@@ -82,6 +82,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Geb](http://www.gebish.org/) - It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit & TestNG.
 
+#### Dart
+
+- [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server. 
+
 ### CSS Regression Testing
 
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
