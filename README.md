@@ -180,7 +180,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
 - [Assert Selenium](http://www.assertselenium.com/) - Selenium Automation in a Right way - A Selenium only blog.
 - [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
-- [All Selenium Blogs](http://it-kosmopolit.de/Selenium/blog/selenium-blogs/selenium_blogs.php) - An comprehensive (but not complete) list of Selenium related blogs.
 
 ## License
 
