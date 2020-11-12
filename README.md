@@ -54,8 +54,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Python
 
-- [Helium](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
 - [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
+- [Helium](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
 - [Selene](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
 - [Pomade](https://github.com/saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
