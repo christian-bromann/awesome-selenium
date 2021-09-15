@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Aerokube Browsers](https://browsers.aerokube.com) - Lightning fast online Selenium testing platform with unlimited billing plans and reasonable pricing.
 - [Moon Cloud](https://aerokube.com/moon/#cloud) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 - [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
+- [Thundra Foresight](https://www.thundra.io/foresight) - A visibility tool into your test suites by spotting test failures in no time.
 
 ### Device Farms
 
