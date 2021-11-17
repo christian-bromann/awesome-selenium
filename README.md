@@ -34,7 +34,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers for unit testing (mostly AngularJS).
 - [Protractor](https://angular.github.io/protractor/) - Protractor is an end-to-end test framework for AngularJS applications.
 - [CodeceptJS](http://codecept.io/) - Modern Era Acceptance Testing Framework for NodeJS.
-- [Nightmare.js](http://www.nightmarejs.org/) - A high-level browser automation library.
 
 #### Ruby
 
