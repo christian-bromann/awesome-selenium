@@ -175,7 +175,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Official Selenium Blog](https://www.selenium.dev/blog/) - The official blog by SeleniumHQ.
 - [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
-- [Assert Selenium](http://www.assertselenium.com/) - Selenium Automation in a Right way - A Selenium only blog.
 - [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
 
 ## License
