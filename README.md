@@ -52,7 +52,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
 - [Helium](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
 - [Selene](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
-- [Pomade](https://github.com/saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 - [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 - [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
