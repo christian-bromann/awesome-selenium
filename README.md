@@ -84,7 +84,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CSS Regression Testing
 
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Containers
