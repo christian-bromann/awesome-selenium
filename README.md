@@ -25,7 +25,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
 - [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
-- [CasperJS](http://casperjs.org/) - open source navigation scripting & testing utility.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
 - [DalekJS](http://dalekjs.com/) - Automated cross browser testing.
 - [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
