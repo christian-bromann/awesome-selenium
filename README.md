@@ -26,7 +26,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
-- [DalekJS](http://dalekjs.com/) - Automated cross browser testing.
 - [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
 - [Nightwatch](http://nightwatchjs.org/) - efficient and straightforward Javascript End-to-End tests.
 - [yiewd](https://github.com/jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
