@@ -1,16 +1,16 @@
-# Contribution Guidelines
+# Katkı Yönergeleri
 
-Please ensure your pull request adheres to the following guidelines:
+Lütfen pull isteğinizin aşağıdaki yönergelere uygun olduğundan emin olun:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested tools should be tested and documented.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) - Description.`
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- End all descriptions with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request should include a link to the package and why it should be included.
+- Sizinki bir kopya olabileceğinden, yeni bir tane yapmadan önce önceki önerileri arayın.
+- Önerilen araçlar test edilmeli ve belgelenmelidir.
+- Her öneri için ayrı bir çekme isteği yapın.
+- Belirtlilen formatı kullanın: `[paket](link) - Açıklama.`
+- Yeni kategoriler veya mevcut kategorizasyondaki iyileştirmeler memnuniyetle karşılanmaktadır.
+- Açıklamaları kısa ve basit ama açıklayıcı tutun.
+- Tüm açıklamaları bir nokta ile sonlandırın.
+- Yazım ve dil bilginizi kontrol edin.
+- Metin düzenleyicinizin sondaki boşlukları kaldıracak şekilde ayarlandığından emin olun.
+- Pull isteği, pakete giden bir bağlantı ve paketin neden dahil edilmesi gerektiğini içermelidir.
 
-Thank you for your suggestions!
+Önerileriniz için teşekkür ederiz!

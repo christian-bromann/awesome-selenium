@@ -1,184 +1,184 @@
 # Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test Awesome List](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml/badge.svg)](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml)
 
-> A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
+> Güzel [Selenium](http://www.seleniumhq.org/) [kaynaklarının](#resources) düzenlenmiş bir listesi.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+[Awesome](https://github.com/sindresorhus/awesome) listesinden ilham alındı.
 
-## Resources
+## Kaynaklar
 
-- [Tools](#tools)
-- [CSS Regression Testing](#css-regression-testing)
-- [Containers](#containers)
+- [Araçlar](#araçlar)
+- [CSS Regresyon Testi](#css-regresyon-testi)
+- [Konteynerler(Docker vb.)](#konteynerlerdocker-vb)
 - [Driver](#driver)
-- [Desktop Tools](#desktop-tools)
+- [Masaüstü Araçları](#masaüstü-araçları)
 - [Selenium Grid](#selenium-grid)
-- [Cloud Services](#cloud-services)
-- [Device Farms](#device-farms)
-- [Web Scraping / Mining](#web-scraping--mining)
-- [Specifications](#specifications)
-- [Blogs](#blogs)
+- [Bulut Hizmetleri](#bulut-hizmetleri)
+- [Cihaz Farmları(Device Farms)](#cihaz-farmlardevice-farms)
+- [Web Kazıma / Madenciliği](#web-kazma--madencilii)
+- [Özellikler](#özellikler)
+- [Bloglar](#blogs)
 
-### Tools
+### Araçlar
 
 #### Javascript
 
-- [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
+- [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - Selenium projesinden resmi WebDriver JavaScript bağlamaları.
 - [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
-- [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
-- [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
-- [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
-- [Nightwatch](http://nightwatchjs.org/) - efficient and straightforward Javascript End-to-End tests.
-- [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers for unit testing (mostly AngularJS).
-- [Protractor](https://angular.github.io/protractor/) - Protractor is an end-to-end test framework for AngularJS applications.
-- [CodeceptJS](http://codecept.io/) - Modern Era Acceptance Testing Framework for NodeJS.
+- [WebdriverIO](http://webdriver.io) - Önceden tanımlanmış 50'den fazla eylemle WebDriver bağlamalarının daha iyi uygulanması.
+- [Zombie.js](http://zombie.js.org/) - Delicesine hızlı, headless full-stack testing.
+- [SlimerJS](http://slimerjs.org/) - Web geliştiricileri için script yazılabilir bir tarayıcı.
+- [Nightwatch](http://nightwatchjs.org/) - Verimli ve basit Javascript Uçtan Uca testler.
+- [Karma](http://karma-runner.github.io/0.12/index.html) - Unit testing için geliştiricilere verimli bir test ortamı sağlar (çoğunlukla AngularJS).
+- [Protractor](https://angular.github.io/protractor/) - Protractor AngularJS uygulamaları için uçtan uca bir test frameworküdür.
+- [CodeceptJS](http://codecept.io/) - NodeJS için modern çağ Acceptance Testing frameworkü.
 
 #### Ruby
 
-- [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
-- [Watir](http://watir.github.io) - Automated testing that doesn’t hurt
-- [Anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework.
-- [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-- [Spidr](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
-- [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
-- [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
+- [Selenium ile Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bağlamaları
+- [Watir](http://watir.github.io) - Zarar vermeyen otomatik test
+- [Anemone](https://github.com/chriskite/anemone) - Anemon web-spider framework.
+- [Mechanize](http://docs.seattlerb.org/mechanize/) - Websiteler ile etkileşimi otomatize etmek.
+- [Spidr](https://github.com/postmodern/spidr) - Bir siteyi, birden çok domaini, belli linkleri veya limitsiz sayıda linki crawl edebilen web spidering kütüphanesi.
+- [cobweb](https://rubygems.org/gems/cobweb) - Son derece büyük siteleri hızlı bir şekilde taramak için taramaları kümelemek için resque kullanabilen web tarayıcısı.
+- [Capybara](https://rubygems.org/gems/capybara) - Rack tabanlı web uygulamaları için bir entegrasyon test aracı. Bir kullanıcının bir web sitesiyle nasıl etkileşime gireceğini simüle eder.
 
 #### PHP
-- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
-- [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
-- [Steward](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
+- [Facebook WebDriver](https://github.com/facebook/php-webdriver) - Webdriver için bir PHP client'ı.
+- [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) - PHP geliştiricilerinin kendi Selenium sunucularını başlatmaları için bir araç.
+- [Steward](https://github.com/lmc-eu/steward) - PHP-webdriver'ı PHPUnit ile entegre eden bir test çalıştırıcısı.
 
 #### Python
 
-- [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
-- [Helium](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
-- [Selene](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
-- [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
-- [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
-- [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
+- [Selenium ile Python](http://selenium-python.readthedocs.io/) - Selenium Python bağlamları
+- [Helium](https://github.com/mherrmann/selenium-python-helium) - Helium, Selenium'un kullanımını daha kolay ve hızlı hale getirir
+- [Selene](https://github.com/yashaka/selene) - Selenide'den ilham alan özlü ve okunabilir otomatik test frameworkü, Selenide gibi Ajax'ı da destekler.
+- [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Durum bilgisi olan programlı web taraması.
+- [Robot](http://robotframework.org/) - Robot Framework, kabul testi ve ATDD için genel bir test otomasyon frameworkü.
+- [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) Selenium ve Python ile davranış odaklı testler.
 
 #### Java
 
-- [Selenium with Java](http://seleniumhq.github.io/selenium/docs/api/java/index.html) - Selenium Java bindings
-- [Conductor](http://conductor.ddavison.io) - Turbo-boosted Selenium framework that makes test writing a breeze.
-- [darcy](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
-- [Selenide](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
-- [Galen Framework](http://galenframework.com/) - Automated testing of look and feel for your responsive websites.
-- [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
-- [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
-- [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
-- [Lightning](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
+- [Selenium ile Java](http://seleniumhq.github.io/selenium/docs/api/java/index.html) - Selenium Java bağlamları
+- [Conductor](http://conductor.ddavison.io) - Test yazmayı çok kolay hale getiren turbo-boosted Selenium frameworkü.
+- [darcy](https://github.com/darcy-framework/darcy-webdriver) - Yapılandırılmış, sürdürülebilir otomasyon için sayfa nesnesi frameworkü.
+- [Selenide](https://github.com/codeborne/selenide) - Fluent API kullanarak okunması ve bakımı kolay otomatik testler yazmak için bir çerçeve. Selenide, Ajax ve zaman aşımlarıyla ilgili çoğu sorunu çözen bir sihir numarasına sahiptir.
+- [Galen Framework](http://galenframework.com/) -Responsive web siteleriniz için otomatik görünüm ve his testi.
+- [Serenity](http://www.thucydides.info/) - Daha kaliteli otomatik kabul testlerini daha hızlı yazmak için açık kaynaklı bir kütüphanedir. (Eski adıyla Thucydides).
+- [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) - WebDriver için Java'da jQuery benzeri çapraz sürücü arabirimi. İnce bir katman olarak tasarlanmıştır, gerektiğinde bazı durumları (örn. onaylama/bekleme) daha basit hale getirmek için tek başına veya en sevdiğiniz framework üzerinde kullanılabilir.
+- [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Selenium WebDriver ikili(binary) dosyalarının otomatik yönetimi.
+- [Lightning](https://github.com/aerokube/lightning-java) - Hafif ve yıldırım hızında WebDriver istemcisi.
 
 #### C#
 
-- [Selenium with C#](http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html) - Selenium C# bindings
-- [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
-- [Strontium](https://github.com/jimevans/strontium) - A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server
+- [Selenium ile C#](http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html) - Selenium C# bağlamaları
+- [Atata](https://github.com/atata-framework/atata) - Selenium WebDriver'a dayalı otomatik web testi tam özellikli framework.
+- [Strontium](https://github.com/jimevans/strontium) - Selenium/WebDriver (Uzak) Sunucusu için bir .NET uygulaması (ancak eski)
 
 #### Groovy
 
-- [Geb](http://www.gebish.org/) - It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit & TestNG.
+- [Geb](http://www.gebish.org/) - Scripting, kazıma ve genel otomasyon için veya aynı şekilde Spock, JUnit ve TestNG gibi test çerçeveleriyle entegrasyon yoluyla işlevsel/web/kabul testi çözümü olarak kullanılabilir.
 
 #### Dart
 
-- [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server. 
+- [dart.webdriver](https://github.com/google/webdriver.dart) -  Dart için WebDriver bağlamaları sağlar. Bunlar WebDriver JSON interface kullanır ve bu nedenle WebDriver uzak sunucusunun kullanılmasını gerektirir.
 
-### CSS Regression Testing
+### CSS Regresyon Testi
 
-- [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+- [WebdriverCSS](https://github.com/webdriverio/webdrivercss) -[WebdriverIO](http://webdriver.io) için regresyon test aracı. (şu anda kullanımdan kaldırıldı, şu an için lütfen [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) kullanın).
 
-### Containers
+### Konteynerler(Docker vb.)
 
 #### Docker
 
-- [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-- [Ggr](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
-- [Selenoid](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
-- [zalando/zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
-- [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
+- [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Chrome ve Firefox ile Docker'da Selenium kullanımı ve buna ek olarak video kayıt desteği.
+- [Ggr](https://github.com/aerokube/ggr) - Büyük Selenium kümeleri oluşturmak için kullanılan hafif bir yük dengeleyici(load-balancer).
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Chrome ve Firefox ile Selenium Bağımsız Sunucu, Hub ve Düğüm(Node) yapılandırmaları için Docker görüntüleri.
+- [Selenoid](https://github.com/aerokube/selenoid) - Docker konteynerlerinde tarayıcıları başlatan hafif bir Selenium hub uygulaması.
+- [zalando/zalenium](https://github.com/zalando/zalenium) - Herkesin tek kullanımlık ve esnek bir Selenium Grid altyapısına sahip olmasını sağlar
+- [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Uzaktan Sikuli test/otomasyon yürütme ve grid düğümü dosya yükleme/indirme desteği sağlamak için Selenium Grid Extras için Docker görüntüsü/kurulumu (Selenium Grid bölümüne bakın).
 
 #### Kubernetes
-- [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
-- [Moon](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
-- [Callisto](https://github.com/wrike/callisto) - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
-- [WebGrid](https://github.com/TilBlechschmidt/WebGrid) - An open-source, decentralized, scalable and robust selenium-grid equivalent.
+- [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Bir Kubernetes kümesinde Selenium Hub ve Node'ların örnek dağıtımı.
+- [Moon](https://github.com/aerokube/moon) - Tarayıcıları başlatmak için Kubernetes kullanan ticari bir kapalı kaynaklı kurumsal Selenium uygulaması.
+- [Callisto](https://github.com/wrike/callisto) - Kubernetes'te tarayıcıları başlatmak için açık kaynaklı bir araç. Her selenium oturumu(session) için ayrı oluşturulur.
+- [WebGrid](https://github.com/TilBlechschmidt/WebGrid) - Açık kaynaklı, merkezi olmayan, ölçeklenebilir ve sağlam bir selenium grid eşdeğeri.
 
 ### Driver
 
-#### Desktop (browsers)
+#### Masaüstü (tarayıcılar)
 
-- [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-- [Geckodriver](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
-- [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
-- [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-- [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
-- [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
-- [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
+- [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox sürücüsü (FF < v48 için), indirmelerde bulunan Selenium-server-standalone.jar dosyasına dahildir.
+- [Geckodriver](https://github.com/mozilla/geckodriver) - Selenium >= v3 ile desteklenen Firefox sürücüsü (FF > v48 için)
+- [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver, WebDriver'ın Chromium için tel protokolünü uygulayan bağımsız bir sunucudur.
+- [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - InternetExplorerDriver, WebDriver'ın tel protokolünü uygulayan bağımsız bir sunucudur.
+- [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Edge için Microsoft Web sürücüsü sunucusu
+- [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - SafariDriver, bir Safari tarayıcı uzantısı olarak uygulanır. Sürücü, geleneksel istemci/sunucu ilişkisini tersine çevirir ve WebSockets kullanarak WebDriver istemcisi ile iletişim kurar (yalnızca Safari <= v9 için desteklenir, macOS Sierra ile gelen tüm yeni Safari sürümleri, Apple tarafından kapalı kaynak olan entegre bir SafariDriver ile birlikte gelir).
+- [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver, Opera Software ve Opera için WebDriver API'sini uygulayan gönüllüler tarafından geliştirilen, satıcı destekli bir WebDriver uygulamasıdır.
 
-#### Mobile (browsers and apps)
+#### Mobil (tarayıcılar ve uygulamalar)
 
-- [Appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps. It drives iOS, Android Apps using the WebDriver protocol.
-- [Selendroid](http://selendroid.io/mobileWeb.html) - Selendroid is based on the Android instrumentation framework.
-- [ios-driver](http://ios-driver.github.io/ios-driver/) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
-- [WebDriverAgent](https://github.com/manishPatwari/WebDriverAgent) - a WebDriver server for iOS to remote control devices via WebDriver API.
+- [Appium](http://appium.io/) - Appium, yerel ve hibrit mobil uygulamalarla kullanım için açık kaynaklı bir test otomasyon çerçevesidir. WebDriver protokolünü kullanarak iOS, Android Uygulamalarını çalıştırır.
+- [Selendroid](http://selendroid.io/mobileWeb.html) - Selendroid, Android enstrümantasyon çerçevesine dayanmaktadır.
+- [ios-driver](http://ios-driver.github.io/ios-driver/) - Selenium / WebDriver kullanarak herhangi bir IOS yerel, karma veya mobil web uygulamasını test edin.
+- [WebDriverAgent](https://github.com/manishPatwari/WebDriverAgent) - iOS için bir WebDriver sunucusundan WebDriver API aracılığıyla uzaktan kontrol cihazlarına.
 
-#### Desktop GUI Automation (non-browser-centric)
+#### Masaüstü GUI Otomasyonu (tarayıcı merkezli olmayan)
 
-- [WinAppDriver](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
-- [Winium](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
-- [QtWebDriver](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
-- [AutoItDriverServer](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
-- [AutoPyDriverServer](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
-- [Appium for Mac](https://appium.io/docs/en/drivers/mac/) - Appium/WebDriver implementation for automating Mac OS X desktop.
-- [SilkAppDriver](https://github.com/MicroFocus/SilkAppDriver) - Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API.
+- [WinAppDriver](https://github.com/Microsoft/WinAppDriver) - Windows uygulama otomasyonu için Microsoft'un WebDriver uygulaması.
+- [Winium](https://github.com/2gis/Winium) - Windows platformları için otomasyon çerçevesi. Ücretsizdir. Açık kaynak kodludur. Selenyum bazlıdır. Destekler: Windows Masaüstü (WPF, WinForms); Windows Phone için Windows Mağazası veya Evrensel Uygulamalar; Windows Phone Silverlight Uygulamaları.
+- [QtWebDriver](https://github.com/cisco-open-source/qtwebdriver) - Qt tabanlı GUI uygulamalarını otomatikleştirmek için WebDriver'ı kullanmak için.
+- [AutoItDriverServer](https://github.com/daluu/AutoItDriverServer) - (Uzak)WebDriver API aracılığıyla AutoIt'i kontrol etmek/sürmek için Selenium sunucusu.
+- [AutoPyDriverServer](https://github.com/daluu/AutoPyDriverServer) - (Uzak)WebDriver API aracılığıyla AutoPy'yi kontrol etmek/sürmek için Selenium sunucusu.
+- [Appium for Mac](https://appium.io/docs/en/drivers/mac/) - Mac OS X masaüstünü otomatikleştirmek için Appium/WebDriver uygulaması.
+- [SilkAppDriver](https://github.com/MicroFocus/SilkAppDriver) - (Uzaktan)WebDriver API aracılığıyla ticari SilkTest platformunu kontrol etmek/sürdürmek için Selenium sunucusu.
 
-### Desktop Tools
+### Masaüstü Araçları
 
-- [SWET](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
-- [Looking Glass](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
-- [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - A Firebug/FirePath/Firefinder and Selenium IDE alternative for browser element inspection from the creators of Ranorex.
-- [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
-- [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
+- [SWET](https://github.com/sergueik/SWET) - Aynı işlevsellik için SWD Sayfa Kaydedici'nin varisi.
+- [Looking Glass](https://github.com/dmolchanenko/LookingGlass) - Tarayıcılar arası öğe denetçisi ve Selenium kod üreteci sunan Java uygulaması.
+- [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - Ranorex'in yaratıcılarından tarayıcı öğesi denetimi için bir Firebug/FirePath/Firefinder ve Selenium IDE alternatifi.
+- [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - SilkTest'in yaratıcılarından kayıt, oynatma ve komut dosyası dışa aktarma için bir Selenium IDE alternatifi.
+- [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Internet Explorer tarayıcısı için öğe denetimi sağlayan Microsoft Excel tabanlı araç.
 
 ### Selenium Grid
 
-- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
-- [SeLion](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
-- [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
+- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - Video kaydı gibi temel Selenium Gridinin ötesinde ek özellikler sağlayan bir framework.
+- [SeLion](https://github.com/paypal/SeLion) -(Java) Temel Selenium Grid işlevselliğinin ötesinde, özellikle kararlılık iyileştirmeleri vb. gibi ek özelliklerle Selenium testlerini çalıştırmak için kütüphane.
+- [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) - Sikuli testlerini/otomasyonunu uzaktan çalıştırma, bir grid düğümüne dosya yükleme/indirme gibi ek özellikler sağlayan Selenium Grid için bir dizi uzantı.
 
-### Cloud Services
+### Bulut Hizmetleri
 
-- [Sauce Labs](https://saucelabs.com) - Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
-- [HeadSpin](https://www.headspin.io/) - Test your website for cross browser compatibility on thousands of real device running real browsers. Get instant access to multiple desktop and mobile browsers on the cloud. Get Free Trial.
-- [Browserstack](https://www.browserstack.com/) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
-- [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
-- [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
-- [Moon Cloud](https://aerokube.com/moon-cloud/) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
-- [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
-- [Thundra Foresight](https://www.thundra.io/foresight) - A visibility tool into your test suites by spotting test failures in no time.
+- [Sauce Labs](https://saucelabs.com) - Çapraz tarayıcı testi harika oldu. 300'den fazla işletim sistemi/tarayıcı platformunda selenyum testi, mobil test, JS birim testi. Ücretsiz başlayın.
+- [HeadSpin](https://www.headspin.io/) - Gerçek tarayıcılar çalıştıran binlerce gerçek cihazda web sitenizi çapraz tarayıcı uyumluluğu açısından test edin. Bulutta birden çok masaüstü ve mobil tarayıcıya anında erişim sağlayın. Ücretsiz deneme alın.
+- [Browserstack](https://www.browserstack.com/) - Web sitenizi gerçek tarayıcılarda çapraz tarayıcı uyumluluğu açısından test edin. Birden çok masaüstü ve mobil tarayıcıya anında erişim. Ücretsiz deneme alın.
+- [LambdaTest](https://www.lambdatest.com/selenium-automation) - Web sitenizi 2000'den fazla gerçek tarayıcı ve işletim sisteminde çapraz tarayıcı uyumluluğu açısından test edin. Ücretsiz deneme alın.
+- [TestingBot](https://testingbot.com) - TestingBot, bulutta Selenium ile kolay çapraz tarayıcı testi sağlar.
+- [Moon Cloud](https://aerokube.com/moon-cloud/) - Dakika başına faturalandırma ve sınırsız sayıda tarayıcı ile genel bulut platformunda özel Selenium kümeniz.
+- [Mail7](https://www.mail7.io/) - E-posta iş akışı testini otomatikleştirmek için tek kullanımlık e-posta hizmeti, [Bu döküman](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) Mail7'nin Selenium ile nasıl uygulanacağını(implemente edileceğini) açıklar.
+- [Thundra Foresight](https://www.thundra.io/foresight) - Test hatalarını anında tespit ederek test takımlarınıza bir görünürlük aracı.
 
-### Device Farms
+### Cihaz Farmları(Device Farms)
 
-- [OpenSTF](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
+- [OpenSTF](https://github.com/DeviceFarmer/stf) - Android'e ve aynı zamanda iOS'a yönelik kendi cihaz çiftliğinizi çalıştırmak için bir framework.
 
-### Web Scraping / Mining
+### Web Kazıma / Madenciliği
 
-- [Scrapy](http://scrapy.org) - **Python**, mainly a scraper/miner - fast, well documented and, can be linked with [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) for nice mining deployments, or [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) for PaaS (server-less) deployment, works in terminal or an server stand-alone process, can be used with **Celery**, built on top of **Twisted**.
-- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
+- [Scrapy](http://scrapy.org) - **Python**, daha çok bir kazıyıcı/madenci - hızlı, iyi dökümante edilmiş ve [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) ile bağlanabilir, güzel madencilik deploymentları için veya [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) PaaS (sunucusuz) deploymentları için, terminalde veya tek başına(standalone) sunucu işleminde, **Celery** ile kullanılabilir, **Twisted** üzerine kurulmuştur.
+- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js**, NodeJS + sunucu tarafı jQuery için Web Crawler/Spider.
 
-### Specifications
+### Özellikler
 
-- [The WebDriver Wire Protocol](https://www.selenium.dev/documentation/legacy/json_wire_protocol/) - All implementations of WebDriver that communicate with the browser, or a RemoteWebDriver server shall use a common wire protocol.
-- [WebDriver](http://www.w3.org/TR/webdriver/) - This specification defines the WebDriver API, a platform and language-neutral interface and associated wire protocol that allows programs or scripts to introspect into, and control the behavior of, a web browser.
+- [The WebDriver Wire Protocol](https://www.selenium.dev/documentation/legacy/json_wire_protocol/) - Tarayıcıyla veya bir RemoteWebDriver sunucusuyla iletişim kuran tüm WebDriver uygulamaları, ortak bir kablo protokolü kullanacaktır.
+- [WebDriver](http://www.w3.org/TR/webdriver/) - Bu spesifikasyon, programların veya komut dosyalarının bir web tarayıcısına göz atmasına ve davranışını kontrol etmesine izin veren bir platform ve dilden bağımsız arabirim ve ilişkili kablo protokolü olan WebDriver API'sini tanımlar.
 
-### Blogs
+### Bloglar
 
-- [Official Selenium Blog](https://www.selenium.dev/blog/) - The official blog by SeleniumHQ.
-- [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
-- [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
+- [Official Selenium Blog](https://www.selenium.dev/blog/) - SeleniumHQ'nun resmi blogu.
+- [Elemental Selenium](http://elementalselenium.com/) - Selenium'un bir Profesyonel gibi nasıl kullanılacağına anlatan ücretsiz, haftada bir e-posta.
+- [SauceLabs Blog](https://saucelabs.com/blog) - SauceLabs küratörlüğünde blog.
 
-## License
+## Lisans
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Christian Bromann](http://www.christian-bromann.com/) has waived all copyright and related or neighboring rights to this work.
+Kanunen mümkün olduğu ölçüde, [Christian Bromann](http://www.christian-bromann.com/) bu çalışmaya ilişkin tüm telif haklarından ve ilgili veya komşu haklardan feragat etmiştir.
