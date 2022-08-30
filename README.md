@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Dart
 
-- [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server. 
+- [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server.
 
 ### CSS Regression Testing
 
