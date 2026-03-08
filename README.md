@@ -85,6 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### CSS Regression Testing
 
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+- [Website-Diff](https://github.com/GeiserX/Website-Diff) - Visual regression testing tool that uses Selenium to capture multi-browser screenshots and generate pixel-level diff images.
 
 ### Containers
 
