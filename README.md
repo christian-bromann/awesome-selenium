@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 - [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 - [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
+- [SessionKeeper](https://github.com/vesper-astrena/sessionkeeper) - Browser session manager that persists authenticated sessions across automation runs, handling CAPTCHA and login walls by opening a visible browser only when re-auth is needed.
 
 #### Java
 
