@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 - [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
 - [Lightning](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
+- [Selenium Boot](https://github.com/seleniumboot/selenium-boot) - Zero-boilerplate Selenium + TestNG framework with auto driver management, smart retry, self-healing locators, AI failure analysis, and a built-in HTML report.
 
 #### C#
 
