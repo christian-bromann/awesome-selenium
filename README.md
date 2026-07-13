@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Resources
 
 - [Tools](#tools)
+- [AI](#ai)
 - [CSS Regression Testing](#css-regression-testing)
 - [Containers](#containers)
 - [Driver](#driver)
@@ -81,6 +82,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Dart
 
 - [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server.
+
+### AI
+
+- [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) - Curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 
 ### CSS Regression Testing
 
