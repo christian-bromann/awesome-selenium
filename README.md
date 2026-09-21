@@ -154,6 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sauce Labs](https://saucelabs.com) - Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
 - [HeadSpin](https://www.headspin.io/) - Test your website for cross browser compatibility on thousands of real device running real browsers. Get instant access to multiple desktop and mobile browsers on the cloud. Get Free Trial.
 - [Browserstack](https://www.browserstack.com/) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
+- [Gologin](https://gologin.com) - Cloud browser with persistent profiles, built-in proxies and CDP support; compatible with Selenium via CDP.
 - [TestGrid](https://www.testgrid.io/) - End to End testing of mobile apps & websites on 1000+ real browsers & OS. Request Free Trial.
 - [TestMu AI (Formerly LambdaTest)](https://www.testmuai.com/selenium-automation) - Test your website for cross browser compatibility on 3000+ real browsers & OS. Get Free Trial.
 - [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
