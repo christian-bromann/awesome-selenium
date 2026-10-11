@@ -86,7 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
-- [Website-Diff](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
+- [Wayback-Diff](https://github.com/GeiserX/Wayback-Diff) - Command-line tool that compares two web pages, Wayback Machine snapshots included, with side-by-side and pixel-diff screenshots driven by Selenium WebDriver.
 
 - [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
