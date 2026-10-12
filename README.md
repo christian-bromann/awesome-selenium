@@ -106,6 +106,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Moon](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 - [Callisto](https://github.com/wrike/callisto) - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
 - [WebGrid](https://github.com/TilBlechschmidt/WebGrid) - An open-source, decentralized, scalable and robust selenium-grid equivalent.
+- [selenosis](https://github.com/alcounit/selenosis) - Stateless, Kubernetes-native platform that runs ephemeral Selenium, Playwright, and MCP browser sessions as on-demand pods via custom resources.
 
 ### Driver
 
