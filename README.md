@@ -140,6 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [SWET](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
 - [Looking Glass](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
+- [Pathfinder Studio](https://pathfinder.aiventure-studios.com) - Windows desktop app that discovers a web application and generates Selenium (and Playwright, Cypress, WebdriverIO) test code. Free Community edition.
 - [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
 - [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
 
