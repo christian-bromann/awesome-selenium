@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 - [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 - [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
+- [mendwright](https://github.com/saadbuilt/mendwright) - Self-healing selectors for Selenium and Playwright that repair a broken locator from a saved fingerprint of the element, or with a model when needed, and check each repair on the live page.
 
 #### Java
 
