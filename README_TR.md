@@ -55,6 +55,7 @@
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Durum bilgisi olan programlı web taraması.
 - [Robot](http://robotframework.org/) - Robot Framework, kabul testi ve ATDD için genel bir test otomasyon frameworkü.
 - [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) Selenium ve Python ile davranış odaklı testler.
+- [Maily](https://github.com/stormsia/maily) - Selenium testlerinde e-posta doğrulama ve OTP kodu çıkarma işlemlerini otomatikleştirmek için tek kullanımlık e-posta ağ geçidi ve Python istemcisi.
 
 #### Java
 
