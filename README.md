@@ -90,6 +90,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
+- [Buddy Visual Tests](https://buddy.works/docs/tests/visual-tests/e2e-frameworks/selenium) - Visual regression testing for Selenium tests written in Java, C# or JavaScript. Snapshots taken during a test run are compared with an approved baseline.
+
 ### Containers
 
 #### Docker
