@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 - [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 - [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
+- [Waitless](https://github.com/godhiraj-code/waitless) - Wraps a Selenium WebDriver so navigation, element lookups and clicks wait for DOM and network activity to settle, reducing explicit waits and sleeps.
 
 #### Java
 
